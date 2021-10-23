@@ -1,6 +1,6 @@
 {
   "name": "shinhan-limit-scrap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Jimmy Lee @zeallat",
   "bin": {
     "shinhan-limit-scrap": "./bin/run"

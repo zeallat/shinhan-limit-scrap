@@ -19,7 +19,7 @@ $ npm install -g shinhan-limit-scrap
 $ shinhan-limit-scrap COMMAND
 running command...
 $ shinhan-limit-scrap (-v|--version|version)
-shinhan-limit-scrap/1.0.1 darwin-x64 node-v16.12.0
+shinhan-limit-scrap/1.0.2 darwin-x64 node-v16.12.0
 $ shinhan-limit-scrap --help [COMMAND]
 USAGE
   $ shinhan-limit-scrap COMMAND
